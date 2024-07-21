@@ -1,0 +1,1 @@
+Este es mi primer documento generado desde la terminal de Linux y alojado a Github
